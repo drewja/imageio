@@ -304,7 +304,7 @@ class to API calls using the plugin kwarg. For example::
 
 **Installation**
 
-To develop a new plugin, you can start off with a simple def install::
+To develop a new plugin, you can start off with a simple dev install::
     
     # 1. Fork the ImageIO repository
 
